@@ -15,3 +15,5 @@ def multiply(a, b):
     
 a = 3
 b = 5
+c= multiply(a, b)
+print(f"{a} * {b} = {c}")
